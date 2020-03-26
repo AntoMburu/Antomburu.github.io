@@ -5,7 +5,7 @@ Code to my personal website.Contains a copy of my resume and links to my project
 # Built using:
 
 HTML5
-Bootstrap for CSS
+Bootstrap for CSS<br>
 jQuery for JS
 GitHub Pages for hosting
 
