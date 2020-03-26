@@ -1,6 +1,6 @@
 # Antomburu.github.io
 
-Code to my personal website.Contains a copy of my resume and links to my projects
+Code to my personal website. Contains a copy of my resume and links to my projects
 
 # Built using:
 
